@@ -2,4 +2,4 @@ import this
 
 
 def hello_world():
-    pass
+    print("Hello World")
